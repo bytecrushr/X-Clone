@@ -6,7 +6,8 @@ and modern UI components.
 ## Live Demo
 [X Clone](https://x-by-piyush.netlify.app "Visit website")
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2439608c-31ef-450c-88ed-67c6923be7f6/deploy-status)](https://app.netlify.com/sites/x-rmb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2439608c-31ef-450c-88ed-67c6923be7f6/deploy-status)](https://x-by-piyush.netlify.app/)
+
 
 ## 🚀 Features
 
